@@ -1,32 +1,31 @@
-# About Me
+# 👋 Hi, I’m Malik
 
-## Biography
+I’m a frontend Engineer who builds fast, clean, and intuitive user interfaces.
+Attention to detail is my thing. I believe the small code and design decisions are what transform a good interface into a memorable experience.
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+## 🌐 What I Do
+- Build responsive, accessible, and production-ready UIs  
+- Convert designs into scalable component systems  
+- Write clean, predictable code using React + TypeScript  
+- Bridge the gap between design and engineering
 
-I'm trying to find a balance between research and engineering.
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, Tailwind, JavaScript, TypeScript, React, Vite  
+**Tools:** Git, GitHub, VS Code, Figma, REST APIs, Yarn
 
-My current research interests primarily focus on understanding and enhancing the continuity, generalizability, efficiency, and other key properties of machine learning. I am also interested in large multimodal models.
+## 💼 How I Work
+I’m straightforward, detail-focused, and committed to quality.  
+If something can be clearer, faster, or more maintainable — I improve it.  
+No shaky UI. No messy code.
 
-I'm also learning web development and building machine learning software and systems.
+## 🎯 Currently Learning & Building
+- Advanced frontend engineering  
+- AI-powered tools for developers  
+- Real-world projects that push my skills further
 
+## 🔗 Socials
+- **LinkedIn:** https://www.linkedin.com/in/your-username  
+- **GitHub:** https://github.com/your-username  
+- **Twitter/X:** https://x.com/your-username  
+- **Portfolio:** https://yourwebsite.com  
 
-## Contact
-
-Contact me by:
-
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
-
-
-## Résumé
-
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
-
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)

@@ -8,20 +8,20 @@ const websites: WebsitesData = {
         id: "my-blog",
         title: "Website",
         img: "https://zxh.me/img/avatar.jpg",
-        link: "https://zxh.me/",
+        link: "https://malikhaziq.netlify.app/",
         inner: true
       },
       {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
+        link: "https://github.com/Malik-Haziq"
       },
       {
         id: "my-linkedin",
         title: "Linkedin",
         img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
+        link: "https://www.linkedin.com/in/malik-haziq-b5233a231/"
       },
       {
         id: "my-google-scholar",
@@ -45,7 +45,7 @@ const websites: WebsitesData = {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "mailto:malikhaziq153@gmail.com"
       }
     ]
   },
