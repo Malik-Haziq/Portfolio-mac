@@ -19,13 +19,6 @@ const bear: BearData[] = [
         file: "markdown/articles.md",
         icon: "i-mdi:file-document-edit-outline",
         excerpt: "I love to write about web development..."
-      },
-      {
-        id: "github-stats",
-        title: "Github Stats",
-        file: "markdown/github-stats.md",
-        icon: "i-icon-park-outline:github",
-        excerpt: "Here are some status about my github account..."
       }
     ]
   },
