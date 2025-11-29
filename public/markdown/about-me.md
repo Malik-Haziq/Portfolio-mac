@@ -1,31 +1,36 @@
-# 👋 Hi, I’m Malik
+# Hi, I’m Malik
 
 I’m a frontend Engineer who builds fast, clean, and intuitive user interfaces.
 Attention to detail is my thing. I believe the small code and design decisions are what transform a good interface into a memorable experience.
 
-## 🌐 What I Do
-- Build responsive, accessible, and production-ready UIs  
-- Convert designs into scalable component systems  
-- Write clean, predictable code using React + TypeScript  
-- Bridge the gap between design and engineering
+## What I Do
 
-## 🛠️ Tech Stack
-**Frontend:** HTML, CSS, Tailwind, JavaScript, TypeScript, React, Vite  
+- Have experience working on AI-powered products, building interactive dashboards
+
+- I copy-paste figma design into web so clean you can't tell the difference
+
+- I focus on code quality, performance, and user experience
+
+- I don't start working until I fully understand the product and it's end goal
+
+- Comfortable with remote environment
+
+## Tech Stack
+
+**Frontend:** HTML, CSS, Tailwind, SASS, JavaScript, TypeScript, React, Next Js, Supabase  
+**Backend:** Supabase, Firebase
 **Tools:** Git, GitHub, VS Code, Figma, REST APIs, Yarn
 
-## 💼 How I Work
-I’m straightforward, detail-focused, and committed to quality.  
-If something can be clearer, faster, or more maintainable — I improve it.  
-No shaky UI. No messy code.
+## Socials
 
-## 🎯 Currently Learning & Building
-- Advanced frontend engineering  
-- AI-powered tools for developers  
+- **LinkedIn:** https://www.linkedin.com/in/malik-haziq-b5233a231/
+- **GitHub:** https://github.com/Malik-Haziq
+- **Twitter/X:** https://x.com/MalikHaziq19
+- **Portfolio:** https://malikhaziq.netlify.app/
+
+## Currently Learning & Building
+
+- Focusing on backend framework Node.js
+- Advanced frontend engineering
+- AI-powered tools for developers
 - Real-world projects that push my skills further
-
-## 🔗 Socials
-- **LinkedIn:** https://www.linkedin.com/in/your-username  
-- **GitHub:** https://github.com/your-username  
-- **Twitter/X:** https://x.com/your-username  
-- **Portfolio:** https://yourwebsite.com  
-
