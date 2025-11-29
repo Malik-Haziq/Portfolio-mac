@@ -45,7 +45,7 @@ const bear: BearData[] = [
       {
         id: "safeherit",
         title: "Safeherit",
-        file: "https://raw.githubusercontent.com/Malik-Haziq/safeherit/main/README.md",
+        file: "https://raw.githubusercontent.com/Malik-Haziq/Safeherit-frontend/main/README.md",
         icon: "i-ri:shield-check-line",
         excerpt: "System designed to protect your legacy...",
         link: "https://safeherit.com/"
