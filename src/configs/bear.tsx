@@ -18,7 +18,14 @@ const bear: BearData[] = [
         title: "Articles",
         file: "markdown/articles.md",
         icon: "i-mdi:file-document-edit-outline",
-        excerpt: "I love to write about web development..."
+        excerpt: "I love to write about web development."
+      },
+      {
+        id: "resume",
+        title: "Resume",
+        file: "markdown/resume.md",
+        icon: "i-mdi:note-text-outline",
+        excerpt: "Here's my resume. You can download it here."
       }
     ]
   },
