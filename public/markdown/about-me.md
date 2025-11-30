@@ -1,6 +1,6 @@
 # Hi, I’m Malik
 
-I’m a frontend Engineer who builds fast, clean, and intuitive user interfaces.
+I’m a frontend Engineer with 3 years of experience in building clean and intuitive user interfaces and web applications.
 Attention to detail is my thing. I believe the small code and design decisions are what transform a good interface into a memorable experience.
 
 ## What I Do
@@ -17,8 +17,8 @@ Attention to detail is my thing. I believe the small code and design decisions a
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, Tailwind, SASS, JavaScript, TypeScript, React, Next Js, Supabase  
-**Backend:** Supabase, Firebase
+**Frontend:** HTML, CSS, Tailwind, SASS, JavaScript, TypeScript, React, Next Js  
+**Backend:** Supabase, Firebase, Node JS (Learning)  
 **Tools:** Git, GitHub, VS Code, Figma, REST APIs, Yarn
 
 ## Socials
@@ -27,6 +27,11 @@ Attention to detail is my thing. I believe the small code and design decisions a
 - **GitHub:** https://github.com/Malik-Haziq
 - **Twitter/X:** https://x.com/MalikHaziq19
 - **Portfolio:** https://malikhaziq.netlify.app/
+
+## Contact Me
+
+- **Email:** malikhaziq153@gmail.com
+- **Phone No::** +923054388079
 
 ## Currently Learning & Building
 
