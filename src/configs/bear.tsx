@@ -58,6 +58,14 @@ const bear: BearData[] = [
         link: "https://safeherit.com/"
       },
       {
+        id: "the-wild-oasis",
+        title: "The Wild Oasis",
+        file: "https://raw.githubusercontent.com/Malik-Haziq/the-wild-oasis/main/README.md",
+        icon: "i-ri:leaf-line",
+        excerpt: "This is a hotel management web app, where hotel employees can...",
+        link: "https://the-wild-oasis-alamin.vercel.app/dashboard"
+      },
+      {
         id: "humantryx",
         title: "Humantryx",
         file: "https://raw.githubusercontent.com/Malik-Haziq/humantryx/main/README.md",
