@@ -55,13 +55,13 @@ const bear: BearData[] = [
         title: "Humantryx",
         file: "https://raw.githubusercontent.com/Malik-Haziq/humantryx/main/README.md",
         icon: "i-ri:team-line",
-        excerpt: "AI powered HR management tools designed for modern workspaces...",
+        excerpt: "AI powered HR management tool...",
         link: "https://humantryx.vercel.app/"
       },
       {
         id: "cwn",
         title: "CWN",
-        file: "https://raw.githubusercontent.com/Malik-Haziq/cwn/main/README.md",
+        file: "https://raw.githubusercontent.com/Malik-Haziq/CWN-Tech/main/README.md",
         icon: "i-ri:code-box-line",
         excerpt: "Software development agency...",
         link: "https://codewithnaqvi.netlify.app/"
@@ -77,7 +77,7 @@ const bear: BearData[] = [
       {
         id: "ocean-mist",
         title: "Ocean Mist",
-        file: "https://raw.githubusercontent.com/Malik-Haziq/ocean-mist/main/README.md",
+        file: "https://raw.githubusercontent.com/Malik-Haziq/Ocean-Mist-Vscode-Theme/main/README.md",
         icon: "i-ri:palette-line",
         excerpt: "A beautiful VS Code theme...",
         link: "https://marketplace.visualstudio.com/items?itemName=MalikHaziq.ocean-mist"
