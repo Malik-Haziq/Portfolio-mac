@@ -46,7 +46,7 @@ const bear: BearData[] = [
         title: "Auxee",
         file: "markdown/auxee.md",
         icon: "i-ri:brain-line",
-        excerpt: "A secure, private & cost-effective AI assistant for organizations...",
+        excerpt: "A secure, private AI assistant for organizations...",
         link: "https://auxee-ca-frontend-qa-wus.orangerock-849186b3.westus.azurecontainerapps.io/"
       },
       {
