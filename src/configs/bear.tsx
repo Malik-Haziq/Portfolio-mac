@@ -45,7 +45,7 @@ const bear: BearData[] = [
         id: "auxee",
         title: "Auxee",
         file: "markdown/auxee.md",
-        icon: "i-heroicons-solid:fire",
+        icon: "i-ri:brain-line",
         excerpt: "A secure, private & cost-effective AI assistant for organizations...",
         link: "https://auxee-ca-frontend-qa-wus.orangerock-849186b3.westus.azurecontainerapps.io/"
       },
@@ -96,6 +96,13 @@ const bear: BearData[] = [
         icon: "i-ri:palette-line",
         excerpt: "A beautiful VS Code theme...",
         link: "https://marketplace.visualstudio.com/items?itemName=MalikHaziq.ocean-mist"
+      },
+      {
+        id: "other-projects",
+        title: "Other Projects",
+        file: "markdown/other-projects.md",
+        icon: "i-ri:stack-line",
+        excerpt: "Explore other projects I've worked on..."
       }
     ]
   }
