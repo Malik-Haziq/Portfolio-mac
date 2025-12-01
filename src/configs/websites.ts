@@ -5,7 +5,7 @@ const websites: WebsitesData = {
     title: "SNS Links",
     sites: [
       {
-        id: "my-blog",
+        id: "portfolio",
         title: "Website",
         img: "https://zxh.me/img/avatar.jpg",
         link: "https://malikhaziq.netlify.app/",
@@ -30,16 +30,10 @@ const websites: WebsitesData = {
         link: "https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
       },
       {
-        id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
-      },
-      {
         id: "my-twitter",
         title: "Twitter",
         img: "img/sites/twitter.svg",
-        link: "https://www.twitter.com/renovamen_zxh"
+        link: "https://x.com/malikhaziq19"
       },
       {
         id: "my-email",
